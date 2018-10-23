@@ -26,7 +26,7 @@ public class unidades {
 	     * @param acres convertir
 	     * @return operacion a convertir acres a hectareas
 	     */
-	    public static double convertirAcresAHectareas (int acres){
+	    public static double convertircresAHectareas (int acres){
 	  
 	       return acres + ACRES_A_HECTAREAS;
 	   }       
